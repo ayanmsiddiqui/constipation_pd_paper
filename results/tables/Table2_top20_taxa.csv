@@ -1,0 +1,21 @@
+Rank,Taxon,logFC,q,Direction,Prevalence,Mean_RA_control,Mean_RA_case
+1,Ruthenibacterium_lactatiformans,0.6955,0.015,up case,0.969,0.00975,0.0151
+2,Faecalibacterium_prausnitzii,-1.034,0.0606,up control,0.816,0.0508,0.03
+3,Eisenbergiella_tayi,0.963,0.0606,up case,0.412,0.00169,0.0018
+4,Clostridium_innocuum,0.9354,0.0606,up case,0.627,0.00158,0.00298
+5,Actinomyces_oris,0.7889,0.0606,up case,0.363,0.000182,0.000331
+6,Turicimonas_muris,-0.7426,0.0606,up control,0.227,0.000197,9.09e-05
+7,Veillonella_parvula,-0.7359,0.0606,up control,0.122,0.000458,0.000256
+8,Collinsella_massiliensis,0.589,0.0606,up case,0.0878,0.000225,0.000336
+9,Eubacterium_callanderi,0.6563,0.0656,up case,0.131,6.98e-05,3e-04
+10,Clostridium_symbiosum,0.9171,0.0741,up case,0.576,0.000896,0.00162
+11,Haemophilus_parainfluenzae,-0.4231,0.0904,up control,0.0633,4.74e-05,2.36e-05
+12,Collinsella_stercoris,0.7802,0.115,up case,0.516,0.00254,0.00287
+13,Veillonella_atypica,-0.5026,0.125,up control,0.0796,0.000554,6.45e-05
+14,Coprococcus_comes,-1.008,0.167,up control,0.482,0.00582,0.00413
+15,Escherichia_coli,1.006,0.167,up case,0.524,0.00971,0.0157
+16,Proteobacteria_bacterium_CAG_139,-0.8314,0.167,up control,0.361,0.00177,0.00111
+17,Ruminococcaceae_bacterium_D5,0.7062,0.169,up case,0.271,0.000571,0.000701
+18,Collinsella_intestinalis,0.8056,0.169,up case,0.3,0.00277,0.00589
+19,Eubacterium_ramulus,-0.781,0.171,up control,0.288,0.00104,0.000802
+20,Streptococcus_vestibularis,0.7228,0.178,up case,0.308,0.00158,0.00128

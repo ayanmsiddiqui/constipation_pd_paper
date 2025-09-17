@@ -1,0 +1,18 @@
+$contingency
+   
+    control case
+  1     124  101
+  2      11    5
+  3      34   37
+  4      66   37
+  5      47   28
+
+$fisher
+
+	Fisher's Exact Test for Count Data
+
+data:  tab
+p-value = 0.1589
+alternative hypothesis: two.sided
+
+

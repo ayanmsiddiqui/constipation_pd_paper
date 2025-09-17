@@ -1,0 +1,5 @@
+Dropped for NA in design vars:
+  - DC137
+  - DC087
+  - DC079
+  - DC016

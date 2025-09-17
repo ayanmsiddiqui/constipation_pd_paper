@@ -1,0 +1,21 @@
+Rank,Pathway_ID,Description,logFC,q,Direction,Mean_CPM_control,Mean_CPM_case
+1,PANTO-PWY: phosphopantothenate biosynthesis I,PANTO-PWY: phosphopantothenate biosynthesis I,0.3877,3.21e-34,up case,357.8,345.8
+2,FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli),FASYN-INITIAL-PWY: superpathway of fatty acid biosynthesis initiation (E. coli),0.3181,5.16e-32,up case,456,427.4
+3,PWY-5973: cis-vaccenate biosynthesis,cis-vaccenate biosynthesis,0.4559,1.15e-30,up case,322.1,308.6
+4,PWY-6163: chorismate biosynthesis from 3-dehydroquinate,chorismate biosynthesis from 3-dehydroquinate,0.2837,6.8e-26,up case,512.2,501
+5,PANTOSYN-PWY: superpathway of coenzyme A biosynthesis I (bacteria),PANTOSYN-PWY: superpathway of coenzyme A biosynthesis I (bacteria),0.3049,4.41e-25,up case,349.1,338.1
+6,1CMET2-PWY: folate transformations III (E. coli),1CMET2-PWY: folate transformations III (E. coli),0.2126,4.41e-25,up case,465.4,467.3
+7,PWY-6700: queuosine biosynthesis I (de novo),queuosine biosynthesis I (de novo),0.3156,1.36e-23,up case,435.5,413.4
+8,PWY-7663: gondoate biosynthesis (anaerobic),gondoate biosynthesis (anaerobic),0.409,4.73e-23,up case,294.9,288.2
+9,PWY-5695: inosine 5'-phosphate degradation,inosine 5'-phosphate degradation,0.2041,4.73e-23,up case,442,432.8
+10,COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis,COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis,0.2374,5.53e-21,up case,470.5,465.5
+11,PWY0-1319: CDP-diacylglycerol biosynthesis II,PWY0-1319: CDP-diacylglycerol biosynthesis II,0.2668,3.66e-20,up case,424.9,402.9
+12,PWY-5667: CDP-diacylglycerol biosynthesis I,CDP-diacylglycerol biosynthesis I,0.2667,3.66e-20,up case,424.9,402.9
+13,ARO-PWY: chorismate biosynthesis I,ARO-PWY: chorismate biosynthesis I,0.2251,9.9e-18,up case,494.6,489.3
+14,PWY-6737: starch degradation V,starch degradation V,0.2655,1.04e-17,up case,650.5,622.1
+15,RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants),RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants),0.3088,1.31e-16,up case,331.5,306.7
+16,DTDPRHAMSYN-PWY: dTDP-&beta;-L-rhamnose biosynthesis,DTDPRHAMSYN-PWY: dTDP-&beta;-L-rhamnose biosynthesis,0.2237,1.84e-15,up case,600.2,593
+17,PWY-7199: pyrimidine deoxyribonucleosides salvage,pyrimidine deoxyribonucleosides salvage,0.2206,3.55e-14,up case,348.4,331.7
+18,PYRIDNUCSYN-PWY: NAD de novo biosynthesis I (from aspartate),PYRIDNUCSYN-PWY: NAD de novo biosynthesis I (from aspartate),0.1771,6.05e-14,up case,322.2,322.8
+19,PWY-6385: peptidoglycan biosynthesis III (mycobacteria),peptidoglycan biosynthesis III (mycobacteria),0.1648,3.69e-12,up case,520.4,519.8
+20,PWY-6897: thiamine diphosphate salvage II,thiamine diphosphate salvage II,0.2469,2.11e-11,up case,262.7,251.5

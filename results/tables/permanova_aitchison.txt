@@ -1,0 +1,17 @@
+Permutation test for adonis under reduced model
+Terms added sequentially (first to last)
+Permutation: free
+Number of permutations: 999
+
+adonis2(formula = aitch ~ ., data = meta %>% select(Group, all_of(present_covs)), permutations = 999, by = "terms")
+                   Df SumOfSqs      R2      F Pr(>F)    
+Group               1    0.663 0.00650 3.2231  0.001 ***
+Age_at_collection   1    0.539 0.00528 2.6207  0.001 ***
+Sex                 1    0.596 0.00584 2.8949  0.001 ***
+BMI                 1    0.308 0.00302 1.4965  0.065 .  
+Laxatives           2    0.584 0.00572 1.4189  0.040 *  
+collection_method   1    0.182 0.00178 0.8850  0.543    
+Residual          482   99.201 0.97186                  
+Total             489  102.073 1.00000                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1

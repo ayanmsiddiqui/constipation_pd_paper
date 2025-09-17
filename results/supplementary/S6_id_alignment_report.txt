@@ -1,0 +1,16 @@
+Counts columns (original): 724
+Metadata rows (original): 490
+Matched samples: 490
+Counts-only examples (up to 10):
+  - DC167
+  - DC165
+  - DC164
+  - DC163
+  - DC162
+  - DC161
+  - DC160
+  - DC159
+  - DC158
+  - DC156
+Metadata-only examples (up to 10):
+  - 

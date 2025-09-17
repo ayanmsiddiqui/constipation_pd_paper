@@ -1,0 +1,8 @@
+Supplement contents:
+ S1_alpha_diversity_stats.csv
+ S2_full_taxa_differentials.csv
+ S3_full_pathways_differentials.csv
+ S4_permanova_summary.csv, S4_permdisp_tests.txt
+ S5_enterotype_assignments.csv, S5_enterotype_model_selection.csv
+ S6_id_alignment_report.txt, S6_design_drop_report.txt, S6_pathways_design_drop_report.txt
+ (Optional) S2_pathways_top20_alt.png if user-provided file was found.
